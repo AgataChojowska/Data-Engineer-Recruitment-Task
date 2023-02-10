@@ -1,0 +1,4 @@
+boto3==1.26.68
+pandas==1.5.3
+pytest==7.2.1
+Quandl==3.7.0
